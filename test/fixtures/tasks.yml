@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: "Get a Job"
+  status: "active"
+  due_date: 2015-06-09 09:03:51
+
+two:
+  title: "Present Project"
+  status: "active"
+  due_date: 2015-05-07 09:03:51
+
+three:
+  title: "Rock final assesment"
+  status: "active"
+  due_date: 2015-05-05 09:03:51
+
+four:
+  title: "Take a trip"
+  status: "archieved"
+  due_date: 2015-05-15 09:03:51
